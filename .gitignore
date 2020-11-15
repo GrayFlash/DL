@@ -1,3 +1,8 @@
+#Temp GitIgnores
+Planar_Data_Classification
+emotion_detection
+Image_Loading_Manipulation
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
