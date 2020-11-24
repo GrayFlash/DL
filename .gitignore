@@ -1,7 +1,8 @@
 #Temp GitIgnores
 Planar_Data_Classification
-emotion_detection
 Image_Loading_Manipulation
+tensorflow
+handwritten_txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -11,6 +12,15 @@ __pycache__/
 # C extensions
 *.so
 #Dataset
+data
+data_old
+output
+test
+train
+*.png
+*.jpg
+*.txt
+*.ipynb
 dataset/
 datasets/
 images/
