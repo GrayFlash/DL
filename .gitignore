@@ -20,7 +20,7 @@ train
 *.png
 *.jpg
 *.txt
-*.ipynb
+
 dataset/
 datasets/
 images/
